@@ -43,7 +43,7 @@ function setup() {
   obstacleGroup = createGroup();
 
   //setting the collider for the monkey  
-  monkey.setCollider("rectangle", 8, 20, 410, 500)
+  monkey.setCollider("rectangle", 10, 10)
 }
 
  
